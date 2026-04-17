@@ -14,10 +14,9 @@
 - 🎓 **Full Stack Data Science** — AlmaBetter Certified (2023–2024)  
 - 🏛️ **B.A. Economics Honours** — Rajdhani College, Bhubaneswar (2017)  
 - 🔧 Experienced with **Power BI Service** (RLS, Incremental Refresh, Scheduled Refresh)  
-- ⚡ Build and deploy ML apps using **Streamlit, FastAPI & Hugging Face**  
-- 💡 Economics background gives me a strong edge in **business storytelling with data**  
-- 📍 Based in **Bhubaneswar, Odisha, India**  
-- 🔍 Actively seeking **Data Analyst / Power BI Developer / ML roles**  
+- ⚡ Build & deploy ML apps using **Streamlit, FastAPI & Hugging Face**  
+- 💡 Strong in **business storytelling, KPI design & decision-driven analytics**  
+- 📍 Bhubaneswar, Odisha, India  
 - 📫 **ajayapradhan.connect@gmail.com** &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/ajayakumarpradhan/)  
 
 ---
@@ -30,14 +29,10 @@
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
----
-
 ### 🗄️ Database & SQL
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
 
 ### 🤖 Machine Learning & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,18 +40,13 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge&logo=xgboost&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
 
 ### ⚙️ Deployment & Backend
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
----
-
-### 🧰 Tools & Development
+### 🧰 Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -70,39 +60,63 @@
 > Enterprise-grade Power BI dashboard for global e-commerce performance monitoring.
 
 - **Stack:** Power BI · DAX · SQL · Excel  
-- **Highlights:** KPI tracking · Advanced DAX · Customer segmentation · Star Schema  
+- **Live Demo:** https://app.powerbi.com/view?r=eyJrIjoiZDA0M2E1YWUtMGU2NC00NDk2LTg1MjUtOTRhNmM5MDk5OTEzIiwidCI6IjdlMzEwODQ1LTg0ZTEtNGRiOC1hZjk4LTcwNDA0MTkwZDhkZSJ9  
+- **Highlights:**  
+  - Dynamic KPI tracking (Revenue, Profit, AOV)  
+  - Advanced DAX (YTD, YOY growth)  
+  - Customer segmentation & geographic analysis  
+  - Fully interactive Star Schema model  
 
 ---
 
 ### 🏦 [Banking Analytics Dashboard](https://github.com/ajaya-kumar-pradhan/Banking-Analytics-Dashboard)
-> BI solution for financial performance & risk monitoring.
+> Financial analytics solution for banking performance and risk monitoring.
 
 - **Stack:** Power BI · SQL Server · ETL  
-- **Highlights:** Loan portfolio analysis · NPL tracking · Financial insights  
+- **Live Demo:** https://app.powerbi.com/view?r=eyJrIjoiOTQ5Y2UyY2UtNWM2NC00NGYyLTllNWUtYmU1ZDhkM2YwYzg5IiwidCI6IjdlMzEwODQ1LTg0ZTEtNGRiOC1hZjk4LTcwNDA0MTkwZDhkZSJ9  
+- **Highlights:**  
+  - Loan portfolio analysis (NPL, Delinquency %)  
+  - Customer segmentation insights  
+  - Automated ETL pipeline  
+  - Financial performance tracking  
 
 ---
 
 ### 🛡️ [Fraud Detection Risk Intelligence System](https://github.com/ajaya-kumar-pradhan/fraud-detection-risk-intelligence-system)
-> ML-based fraud detection system with real-time insights.
+> ML system for real-time fraud detection and risk monitoring.
 
 - **Stack:** Python · XGBoost · Streamlit · Hugging Face  
-- **Highlights:** 94%+ recall · SHAP explainability · anomaly detection  
+- **Live Demo:** https://huggingface.co/spaces/ajayapradhanconnect/Fraud-Detection-Risk-Intelligence-System  
+- **Highlights:**  
+  - High-recall model (94%+)  
+  - SHAP explainability  
+  - Real-time fraud detection  
+  - Interactive dashboard  
 
 ---
 
 ### ✈️ [Airline Passenger Referral Prediction](https://github.com/ajaya-kumar-pradhan/Airline-Passenger-Referral-Prediction)
-> Predicts customer recommendation likelihood.
+> Predicts customer recommendation likelihood using ML.
 
-- **Stack:** Python · ML · Streamlit  
-- **Highlights:** EDA · feature engineering · deployment  
+- **Stack:** Python · Scikit-Learn · Streamlit  
+- **Live Demo:** https://huggingface.co/spaces/ajayapradhanconnect/Airline-Passenger-Referral-Prediction  
+- **Highlights:**  
+  - EDA on 10K+ reviews  
+  - Feature engineering  
+  - ML classification model  
+  - Deployment on Hugging Face  
 
 ---
 
 ### 📚 [Book Recommendation System](https://github.com/ajaya-kumar-pradhan/Book-Recommendation-System)
-> Personalized recommendation engine.
+> Personalized recommendation engine using collaborative filtering.
 
-- **Stack:** Python · ML · Flask · Streamlit  
-- **Highlights:** KNN · cosine similarity · user personalization  
+- **Stack:** Python · Scikit-Learn · Flask · Streamlit  
+- **Live Demo:** https://huggingface.co/spaces/ajayapradhanconnect/Book-Recommendation-System  
+- **Highlights:**  
+  - KNN & cosine similarity  
+  - Personalized recommendations  
+  - Interactive UI  
 
 ---
 
@@ -121,10 +135,10 @@
   <a href="https://www.linkedin.com/in/ajayakumarpradhan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ajayapradhan.connect@gmail.com" target="_blank">
+  <a href="mailto:ajayapradhan.connect@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/ajaya-kumar-pradhan" target="_blank">
+  <a href="https://github.com/ajaya-kumar-pradhan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -132,7 +146,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajaya-kumar-pradhan&label=Profile%20Views&color=2E75B6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ajaya-kumar-pradhan&label=Profile%20Views&color=2E75B6&style=flat" />
 </p>
 
 > *"In God we trust; all others must bring data." — W. Edwards Deming*
