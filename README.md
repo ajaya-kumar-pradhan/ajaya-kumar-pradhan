@@ -56,11 +56,20 @@
 
 ## 🚀 Featured Projects
 
-### 🛍️ [E-Commerce Analytics Intelligence Dashboard](https://github.com/ajaya-kumar-pradhan/E-Commerce-Analytics-Intelligence-Dashboard)
+### 🛍️ E-Commerce Analytics Intelligence Dashboard  
 > Enterprise-grade Power BI dashboard for global e-commerce performance monitoring.
 
 - **Stack:** Power BI · DAX · SQL · Excel  
-- **Live Demo:** https://app.powerbi.com/view?r=eyJrIjoiZDA0M2E1YWUtMGU2NC00NDk2LTg1MjUtOTRhNmM5MDk5OTEzIiwidCI6IjdlMzEwODQ1LTg0ZTEtNGRiOC1hZjk4LTcwNDA0MTkwZDhkZSJ9  
+
+<p>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiZDA0M2E1YWUtMGU2NC00NDk2LTg1MjUtOTRhNmM5MDk5OTEzIiwidCI6IjdlMzEwODQ1LTg0ZTEtNGRiOC1hZjk4LTcwNDA0MTkwZDhkZSJ9" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  </a>
+  <a href="https://github.com/ajaya-kumar-pradhan/E-Commerce-Analytics-Intelligence-Dashboard" target="_blank">
+    <img src="https://img.shields.io/badge/💻%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 - **Highlights:**  
   - Dynamic KPI tracking (Revenue, Profit, AOV)  
   - Advanced DAX (YTD, YOY growth)  
@@ -69,11 +78,20 @@
 
 ---
 
-### 🏦 [Banking Analytics Dashboard](https://github.com/ajaya-kumar-pradhan/Banking-Analytics-Dashboard)
+### 🏦 Banking Analytics Dashboard  
 > Financial analytics solution for banking performance and risk monitoring.
 
 - **Stack:** Power BI · SQL Server · ETL  
-- **Live Demo:** https://app.powerbi.com/view?r=eyJrIjoiOTQ5Y2UyY2UtNWM2NC00NGYyLTllNWUtYmU1ZDhkM2YwYzg5IiwidCI6IjdlMzEwODQ1LTg0ZTEtNGRiOC1hZjk4LTcwNDA0MTkwZDhkZSJ9  
+
+<p>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiOTQ5Y2UyY2UtNWM2NC00NGYyLTllNWUtYmU1ZDhkM2YwYzg5IiwidCI6IjdlMzEwODQ1LTg0ZTEtNGRiOC1hZjk4LTcwNDA0MTkwZDhkZSJ9" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  </a>
+  <a href="https://github.com/ajaya-kumar-pradhan/Banking-Analytics-Dashboard" target="_blank">
+    <img src="https://img.shields.io/badge/💻%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 - **Highlights:**  
   - Loan portfolio analysis (NPL, Delinquency %)  
   - Customer segmentation insights  
@@ -82,11 +100,20 @@
 
 ---
 
-### 🛡️ [Fraud Detection Risk Intelligence System](https://github.com/ajaya-kumar-pradhan/fraud-detection-risk-intelligence-system)
+### 🛡️ Fraud Detection Risk Intelligence System  
 > ML system for real-time fraud detection and risk monitoring.
 
 - **Stack:** Python · XGBoost · Streamlit · Hugging Face  
-- **Live Demo:** https://huggingface.co/spaces/ajayapradhanconnect/Fraud-Detection-Risk-Intelligence-System  
+
+<p>
+  <a href="https://huggingface.co/spaces/ajayapradhanconnect/Fraud-Detection-Risk-Intelligence-System" target="_blank">
+    <img src="https://img.shields.io/badge/🤖%20Live%20App-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  </a>
+  <a href="https://github.com/ajaya-kumar-pradhan/fraud-detection-risk-intelligence-system" target="_blank">
+    <img src="https://img.shields.io/badge/💻%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 - **Highlights:**  
   - High-recall model (94%+)  
   - SHAP explainability  
@@ -95,11 +122,20 @@
 
 ---
 
-### ✈️ [Airline Passenger Referral Prediction](https://github.com/ajaya-kumar-pradhan/Airline-Passenger-Referral-Prediction)
+### ✈️ Airline Passenger Referral Prediction  
 > Predicts customer recommendation likelihood using ML.
 
 - **Stack:** Python · Scikit-Learn · Streamlit  
-- **Live Demo:** https://huggingface.co/spaces/ajayapradhanconnect/Airline-Passenger-Referral-Prediction  
+
+<p>
+  <a href="https://huggingface.co/spaces/ajayapradhanconnect/Airline-Passenger-Referral-Prediction" target="_blank">
+    <img src="https://img.shields.io/badge/🤖%20Live%20App-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  </a>
+  <a href="https://github.com/ajaya-kumar-pradhan/Airline-Passenger-Referral-Prediction" target="_blank">
+    <img src="https://img.shields.io/badge/💻%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 - **Highlights:**  
   - EDA on 10K+ reviews  
   - Feature engineering  
@@ -108,11 +144,20 @@
 
 ---
 
-### 📚 [Book Recommendation System](https://github.com/ajaya-kumar-pradhan/Book-Recommendation-System)
+### 📚 Book Recommendation System  
 > Personalized recommendation engine using collaborative filtering.
 
 - **Stack:** Python · Scikit-Learn · Flask · Streamlit  
-- **Live Demo:** https://huggingface.co/spaces/ajayapradhanconnect/Book-Recommendation-System  
+
+<p>
+  <a href="https://huggingface.co/spaces/ajayapradhanconnect/Book-Recommendation-System" target="_blank">
+    <img src="https://img.shields.io/badge/🤖%20Live%20App-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  </a>
+  <a href="https://github.com/ajaya-kumar-pradhan/Book-Recommendation-System" target="_blank">
+    <img src="https://img.shields.io/badge/💻%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 - **Highlights:**  
   - KNN & cosine similarity  
   - Personalized recommendations  
