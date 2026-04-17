@@ -7,7 +7,7 @@
 
 ---
 
-## 🧑‍💼 About Me
+## 🧑💼 About Me
 
 - 💼 **Power BI Developer & Data Analyst** — end-to-end BI solutions from ETL to deployment
 - 🎓 **Full Stack Data Science** — AlmaBetter Certified (2023–2024)
@@ -54,65 +54,61 @@
 
 ## 🚀 Featured Projects
 
-### 🚚 [Shipment Delivery & Logistics Analytics — Delay Prediction System](https://github.com/ajayaconnect/Shipment-Logistics-Analytics)
-> End-to-end ML + analytics system for supply-chain delay prediction
+### 🛍️ [E-Commerce Analytics Intelligence Dashboard](https://github.com/ajaya-kumar-pradhan/E-Commerce-Analytics-Intelligence-Dashboard)
+> Enterprise-grade Power BI dashboard for global e-commerce performance monitoring.
 
-- **Stack:** Python · SQL · Power BI · Machine Learning
-- **Highlights:** Analyzed 10,000+ global shipment records · Random Forest model achieving **94% accuracy** · Improved delayed-shipment recall from 7% → 94% using SMOTE · Automated Python ETL pipeline with API-ready model deployment
-- `Python` `Machine Learning` `SMOTE` `Random Forest` `Power BI` `ETL` `Supply Chain`
-
----
-
-### 📦 [Logistics & Shipment Performance Dashboard (FedEx Use-Case)](https://github.com/ajayaconnect/Logistics-Shipment-Dashboard)
-> Multi-page Power BI dashboard suite for logistics KPI monitoring
-
-- **Stack:** Power BI · DAX · SQL
-- **Highlights:** On-Time Delivery %, Average Delay, Freight Cost KPIs · Star schema data model · Deployed to **Power BI Service** with RLS, Scheduled Refresh & stakeholder access · Full KPI documentation for scalability
-- `Power BI` `DAX` `SQL` `Star Schema` `RLS` `Power BI Service` `Logistics`
+- **Stack:** Power BI · DAX · SQL · Excel
+- **Live Demo:** [![Live Link](https://img.shields.io/badge/Live%20Dashboard-F2C811?style=flat-square&logo=power-bi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiZDA0M2E1YWUtMGU2NC00NDk2LTg1MjUtOTRhNmM5MDk5OTEzIiwidCI6IjdlMzEwODQ1LTg0ZTEtNGRiOC1hZjk4LTcwNDA0MTkwZDhkZSJ9)
+- **Highlights:** Dynamic KPI tracking (Revenue, Profit, AOV) · Advanced DAX measures for YTD/YOY growth · Customer segmentation & geographic sales analysis · Fully interactive Star Schema data model.
+- `Power BI` `DAX` `Star Schema` `Retail` `E-Commerce`
 
 ---
 
-### 🏨 [Hotel Booking Analytics Dashboard](https://github.com/ajayaconnect/Hotel-Booking-Analytics)
-> Full BI solution with SQL Server data warehouse + Power BI + automated Excel reporting
+### 🏦 [Banking Analytics Dashboard](https://github.com/ajaya-kumar-pradhan/Banking-Analytics-Dashboard)
+> Comprehensive BI solution for financial performance and risk monitoring.
 
-- **Stack:** SQL Server · Power BI · Python (openpyxl)
-- **Highlights:** Star schema in SQL Server · DAX KPIs: Occupancy Rate, ADR, RevPAR, Cancellation % · Multi-page dashboards · **RLS, Incremental Refresh, Scheduled Refresh** + automated Excel reporting via openpyxl
-- `SQL Server` `Power BI` `DAX` `Python` `openpyxl` `RLS` `Star Schema` `Hospitality`
-
----
-
-### 🛒 [Amazon USA Sales Analysis](https://github.com/ajayaconnect/Amazon-USA-Sales-Analysis-Project)
-> SQL-driven business intelligence on Amazon sales data
-
-- **Stack:** PostgreSQL · SQL Analytics
-- **Highlights:** 20+ business queries across revenue trends, return rates, product performance, and customer segments
-- `PostgreSQL` `SQL` `CTEs` `Window Functions` `Business Intelligence` `EDA`
+- **Stack:** Power BI · DAX · SQL Server
+- **Live Demo:** [![Live Link](https://img.shields.io/badge/Live%20Dashboard-F2C811?style=flat-square&logo=power-bi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiOTQ5Y2UyY2UtNWM2NC00NGYyLTllNWUtYmU1ZDhkM2YwYzg5IiwidCI6IjdlMzEwODQ1LTg0ZTEtNGRiOC1hZjk4LTcwNDA0MTkwZDhkZSJ9)
+- **Highlights:** Loan portfolio analysis (NPL, Delinquency %) · Customer demographic insights · Automated ETL pipeline · Financial trend forecasting.
+- `Power BI` `Banking` `Finance` `Risk Analytics` `ETL`
 
 ---
 
-### ✈️ [Indigo Airline Passenger Referral Prediction](https://github.com/ajayaconnect/Indigo-Airline-Passenger-Referral-Prediction)
-> ML classification model predicting airline passenger referral likelihood
+### 🛡️ [Fraud Detection Risk Intelligence System](https://github.com/ajaya-kumar-pradhan/fraud-detection-risk-intelligence-system)
+> End-to-end Machine Learning system for real-time transaction fraud identification.
 
-- **Stack:** Python · Scikit-Learn · Pandas · Seaborn
-- **Highlights:** Feature engineering · Multiple classification models benchmarked · Business recommendations derived from model insights
-- `Python` `Machine Learning` `Classification` `Feature Engineering` `EDA`
+- **Stack:** Python · Scikit-Learn · XGBoost · Streamlit
+- **Live Demo:** [![Live Link](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/ajayapradhanconnect/Fraud-Detection-Risk-Intelligence-System)
+- **Highlights:** High-recall classification model (Recall: 94%+) · SHAP explainability integration · Interactive risk monitoring dashboard · Automated anomaly detection.
+- `Python` `Machine Learning` `XGBoost` `Fraud Detection` `Streamlit`
 
 ---
 
-### 🏠 [Airbnb Hotel Booking Analysis](https://github.com/ajayaconnect/Airbnb-Hotel-Booking-Analysis)
-> Exploratory data analysis on 49,000+ Airbnb listings
+### ✈️ [Airline Passenger Referral Prediction](https://github.com/ajaya-kumar-pradhan/Airline-Passenger-Referral-Prediction)
+> ML classification model predicting passenger recommendation likelihood for Indigo Airlines.
 
-- **Stack:** Python · Pandas · Matplotlib · Seaborn
-- **Highlights:** Pricing trends · Occupancy patterns · Neighbourhood-level revenue insights
-- `Python` `EDA` `Pandas` `Seaborn` `Visualization`
+- **Stack:** Python · Pandas · Scikit-Learn · Streamlit
+- **Live Demo:** [![Live Link](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/ajayapradhanconnect/Airline-Passenger-Referral-Prediction)
+- **Highlights:** Comprehensive EDA on 10,000+ reviews · Feature engineering for customer sentiment · Deployment using Streamlit on Hugging Face.
+- `Python` `Machine Learning` `Classification` `Sentiment Analysis` `Airlines`
+
+---
+
+### 📚 [Book Recommendation System](https://github.com/ajaya-kumar-pradhan/Book-Recommendation-System)
+> Collaborative and Content-Based filtering system for personalized book suggestions.
+
+- **Stack:** Python · Scikit-Learn · Flask · Streamlit
+- **Live Demo:** [![Live Link](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/ajayapradhanconnect/Book-Recommendation-System)
+- **Highlights:** Implemented KNN & Cosine Similarity · Personalized suggestions for 50,000+ users · Interactive UI for title searching.
+- `Python` `Recommender Systems` `Unsupervised Learning` `Data Science`
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajayaconnect&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayaconnect&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaya-kumar-pradhan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaya-kumar-pradhan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -126,7 +122,7 @@
   <a href="mailto:ajayapradhan.connect@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/ajayaconnect" target="_blank">
+  <a href="https://github.com/ajaya-kumar-pradhan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -134,7 +130,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajayaconnect&label=Profile%20Views&color=2E75B6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ajaya-kumar-pradhan&label=Profile%20Views&color=2E75B6&style=flat" alt="Profile Views" />
 </p>
 
 > *"In God we trust; all others must bring data." — W. Edwards Deming*
