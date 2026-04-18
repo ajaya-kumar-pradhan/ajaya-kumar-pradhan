@@ -56,7 +56,7 @@
 
 ## 🚀 Featured Projects
 
-### 🛡️ LoanGuard: Enterprise Credit Risk & Portfolio Analytics  
+### Loan Approval & Credit Risk Analytics System
 > Full-stack credit risk evaluation system integrating SQL business intelligence, Power BI reporting, and Random Forest predictive management.
 
 - **Stack:** Power BI · SQL · Python · Scikit-Learn · Streamlit · Hugging Face  
