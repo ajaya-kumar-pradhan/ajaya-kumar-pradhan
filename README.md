@@ -56,6 +56,31 @@
 
 ## 🚀 Featured Projects
 
+### 🛡️ LoanGuard: Enterprise Credit Risk & Portfolio Analytics  
+> Full-stack credit risk evaluation system integrating SQL business intelligence, Power BI reporting, and Random Forest predictive management.
+
+- **Stack:** Power BI · SQL · Python · Scikit-Learn · Streamlit · Hugging Face  
+
+<p>
+  <a href="https://huggingface.co/spaces/ajayapradhanconnect/loan-default-predictor" target="_blank">
+    <img src="https://img.shields.io/badge/🤖%20Live%20App-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  </a>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNGYzMTM1ZDItODQ3Mi00ZWVhLWE3MjQtOGYxYmZjOGRmZDYyIiwidCI6IjdlMzEwODQ1LTg0ZTEtNGRiOC1hZjk4LTcwNDA0MTkwZDhkZSJ9" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  </a>
+  <a href="https://github.com/ajaya-kumar-pradhan/Loan-Approval-Credit-Risk-Analytics-System" target="_blank">
+    <img src="https://img.shields.io/badge/💻%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+- **Highlights:**  
+  - Integrated dual-pane Streamlit app (ML Predictor + Power BI Hub)  
+  - Advanced SQL business insights (YoY Growth, Region Risk Concentration)  
+  - Daily-grain Star Schema model with 20+ custom DAX measures  
+  - End-to-end deployment with real-time portfolio intelligence  
+
+---
+
 ### 🛍️ E-Commerce Analytics Intelligence Dashboard  
 > Enterprise-grade Power BI dashboard for global e-commerce performance monitoring.
 
@@ -159,7 +184,7 @@
 </p>
 
 - **Highlights:**  
-  - KNN & cosine similarity  
+  - KNN & collaborative filtering  
   - Personalized recommendations  
   - Interactive UI  
 
