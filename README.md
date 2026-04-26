@@ -1,8 +1,6 @@
 <div align="center">
 
-<picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Ajaya%20Kumar%20Pradhan&fontSize=42&fontColor=f0f9ff&fontAlignY=38&desc=Power%20BI%20Developer%20%C2%B7%20Data%20Analyst%20%C2%B7%20ML%20%26%20Gen%20AI%20Engineer&descSize=15&descAlignY=60&descColor=94a3b8" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Ajaya%20Kumar%20Pradhan&fontSize=42&fontColor=f0f9ff&fontAlignY=38&desc=Power%20BI%20Developer%20%7C%20Data%20Analyst%20%7C%20ML%20%7C%20Gen%20AI%20Engineer&descSize=15&descAlignY=60&descColor=94a3b8" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=500&color=0EA5E9&center=true&vCenter=true&width=650&lines=ETL+%E2%86%92+Star+Schema+%E2%86%92+DAX+%E2%86%92+Deployment;Gen+AI+%C2%B7+LLMs+%C2%B7+NLP+%C2%B7+Hugging+Face+%C2%B7+RAG;FinTech+%C2%B7+Banking+%C2%B7+Retail+%C2%B7+Healthcare+%C2%B7+Logistics;Open+to+Analyst+%2C+BI+%26+AI+Developer+Roles)](https://github.com/ajaya-kumar-pradhan)
 
@@ -170,6 +168,4 @@ Collaborative filtering engine using KNN for personalised book recommendations.
 
 <br/>
 
-<picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=120&section=footer&text=In+God+we+trust%3B+all+others+must+bring+data.&fontSize=13&fontColor=94a3b8&fontAlignY=65" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=120&section=footer&text=In+God+we+trust%3B+all+others+must+bring+data.&fontSize=13&fontColor=94a3b8&fontAlignY=65" width="100%"/>
