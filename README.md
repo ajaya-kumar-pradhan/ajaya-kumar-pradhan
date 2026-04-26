@@ -1,182 +1,169 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=42&duration=3000&pause=1000&color=C9A96E&center=true&vCenter=true&width=600&height=70&lines=Ajaya+Kumar+Pradhan" alt="Name" />
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Ajaya%20Kumar%20Pradhan&fontSize=42&fontColor=f0f9ff&fontAlignY=38&desc=Power%20BI%20Developer%20%C2%B7%20Data%20Analyst%20%C2%B7%20ML%20Engineer&descSize=15&descAlignY=60&descColor=94a3b8" />
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=14&duration=2500&pause=800&color=6B7280&center=true&vCenter=true&width=600&height=30&lines=Power+BI+Developer+%E2%80%94+Data+Analyst+%E2%80%94+ML+Engineer;ETL+%C2%B7+Star+Schema+%C2%B7+DAX+%C2%B7+Python+%C2%B7+Predictive+Analytics" alt="Role" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=500&color=0EA5E9&center=true&vCenter=true&width=600&lines=ETL+%E2%86%92+Star+Schema+%E2%86%92+DAX+%E2%86%92+Deployment;FinTech+%C2%B7+Banking+%C2%B7+Retail+%C2%B7+Healthcare+%C2%B7+Logistics;Open+to+Analyst+%26+BI+Developer+Roles)](https://github.com/ajaya-kumar-pradhan)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=C9A96E)](https://www.linkedin.com/in/ajayakumarpradhan/)
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=C9A96E)](mailto:ajayapradhan.connect@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=C9A96E)](https://github.com/ajaya-kumar-pradhan)
-[![Profile Views](https://komarev.com/ghpvc/?username=ajaya-kumar-pradhan&style=flat-square&color=C9A96E&label=Views)](https://github.com/ajaya-kumar-pradhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajayakumarpradhan/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajayapradhan.connect@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajaya-kumar-pradhan)
 
 </div>
 
----
+<br/>
 
-## About
+```yaml
+Name     : Ajaya Kumar Pradhan
+Role     : Power BI Developer | Data Analyst | ML Engineer
+Location : Bhubaneswar, Odisha, India
+Education: B.A. Economics Honours — Rajdhani College (2017)
+           Full Stack Data Science — AlmaBetter Certified (2023–24)
+Focus    : End-to-end BI · ETL Design · Star Schema · DAX · Predictive Analytics
+Status   : Open to Analyst & BI Developer Roles
+```
 
-Power BI Developer and Data Analyst with end-to-end ownership of BI solutions — from raw data ingestion and ETL design to Star Schema modelling, DAX development, and live deployment. Grounded in **Economics**, trained in **Full Stack Data Science** (AlmaBetter, 2023–24), and applied across FinTech, Banking, Retail, Logistics, and Healthcare domains.
+<br/>
 
-Strong in business storytelling, KPI design, and bridging the gap between raw data and actionable decisions. Also builds and deploys ML applications via Streamlit, FastAPI, and Hugging Face.
+## ⚡ Tech Stack
 
-📍 Bhubaneswar, Odisha, India &nbsp;·&nbsp; Open to Analyst & BI Developer roles
+<div align="center">
 
----
+| BI & Visualisation | Database & SQL | Machine Learning | Deployment |
+|:---:|:---:|:---:|:---:|
+| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black) | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![ETL](https://img.shields.io/badge/ETL_Pipelines-0EA5E9?style=flat-square) | ![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-8B5CF6?style=flat-square) | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
-## Stack
+</div>
+
+<br/>
+
+## 🚀 Projects
 
 <table>
 <tr>
-<td valign="top" width="25%">
+<td width="50%" valign="top">
 
-**BI & Visualisation**
-```
-Power BI Service
-DAX
-Tableau
-Excel
-RLS · Incremental Refresh
-```
+### 🏦 Loan Approval & Credit Risk System
+Full-stack credit risk platform — SQL intelligence, Power BI reporting, and Random Forest predictions.
 
-</td>
-<td valign="top" width="25%">
+**`Power BI`** **`SQL`** **`Python`** **`Scikit-Learn`** **`Streamlit`**
 
-**Database & SQL**
-```
-SQL Server
-PostgreSQL
-MySQL
-ETL Pipelines
-Star Schema Design
-```
+- ✦ Daily-grain Star Schema · 20+ DAX measures
+- ✦ YoY growth & region risk concentration (SQL)
+- ✦ Random Forest classifier with real-time inference
+- ✦ Dual-pane Streamlit app: ML + Power BI Hub
+
+[![App](https://img.shields.io/badge/Live_App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://huggingface.co/spaces/ajayapradhanconnect/loan-default-predictor)
+[![Dashboard](https://img.shields.io/badge/Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNGYzMTM1ZDItODQ3Mi00ZWVhLWE3MjQtOGYxYmZjOGRmZDYyIiwidCI6IjdlMzEwODQ1LTg0ZTEtNGRiOC1hZjk4LTcwNDA0MTkwZDhkZSJ9)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ajaya-kumar-pradhan/Loan-Approval-Credit-Risk-Analytics-System)
 
 </td>
-<td valign="top" width="25%">
+<td width="50%" valign="top">
 
-**Machine Learning**
-```
-Python
-Scikit-Learn
-XGBoost
-SHAP
-Pandas · NumPy
-```
+### 🛡️ Fraud Detection Risk Intelligence
+XGBoost-powered real-time fraud detection with SHAP explainability and live risk monitoring.
+
+**`Python`** **`XGBoost`** **`SHAP`** **`Streamlit`** **`Hugging Face`**
+
+- ✦ 94%+ recall on imbalanced fraud dataset
+- ✦ SHAP values for per-prediction explainability
+- ✦ Real-time inference with interactive dashboard
+- ✦ Deployed on Hugging Face Spaces
+
+[![App](https://img.shields.io/badge/Live_App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://huggingface.co/spaces/ajayapradhanconnect/Fraud-Detection-Risk-Intelligence-System)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ajaya-kumar-pradhan/fraud-detection-risk-intelligence-system)
 
 </td>
-<td valign="top" width="25%">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Deployment**
-```
-Streamlit
-FastAPI
-Hugging Face
-Git · GitHub
-Jupyter
-```
+### 🛍️ E-Commerce Analytics Dashboard
+Enterprise-grade Power BI solution for global e-commerce performance monitoring.
+
+**`Power BI`** **`DAX`** **`SQL`** **`Excel`**
+
+- ✦ Dynamic KPI tracking — Revenue, Profit, AOV
+- ✦ YTD & YOY growth with advanced DAX
+- ✦ Customer segmentation & geo analysis
+- ✦ Fully interactive Star Schema model
+
+[![Dashboard](https://img.shields.io/badge/Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiZDA0M2E1YWUtMGU2NC00NDk2LTg1MjUtOTRhNmM5MDk5OTEzIiwidCI6IjdlMzEwODQ1LTg0ZTEtNGRiOC1hZjk4LTcwNDA0MTkwZDhkZSJ9)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ajaya-kumar-pradhan/E-Commerce-Analytics-Intelligence-Dashboard)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏛️ Banking Analytics Dashboard
+Financial analytics for loan portfolio management, NPL tracking, and risk monitoring.
+
+**`Power BI`** **`SQL Server`** **`ETL`**
+
+- ✦ NPL & Delinquency % across portfolio segments
+- ✦ Automated ETL pipeline into Power BI Service
+- ✦ Customer segmentation & financial trend analysis
+- ✦ Scheduled refresh with RLS security
+
+[![Dashboard](https://img.shields.io/badge/Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiOTQ5Y2UyY2UtNWM2NC00NGYyLTllNWUtYmU1ZDhkM2YwYzg5IiwidCI6IjdlMzEwODQ1LTg0ZTEtNGRiOC1hZjk4LTcwNDA0MTkwZDhkZSJ9)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ajaya-kumar-pradhan/Banking-Analytics-Dashboard)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✈️ Airline Passenger Referral Prediction
+ML classifier predicting customer recommendation likelihood from 10K+ reviews.
+
+**`Python`** **`Scikit-Learn`** **`Streamlit`**
+
+- ✦ EDA on 10,000+ passenger reviews
+- ✦ Feature engineering & ML classification
+- ✦ Deployed on Hugging Face Spaces
+
+[![App](https://img.shields.io/badge/Live_App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://huggingface.co/spaces/ajayapradhanconnect/Airline-Passenger-Referral-Prediction)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ajaya-kumar-pradhan/Airline-Passenger-Referral-Prediction)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Book Recommendation System
+Collaborative filtering engine using KNN for personalised book recommendations.
+
+**`Python`** **`Scikit-Learn`** **`Flask`** **`Streamlit`**
+
+- ✦ KNN & collaborative filtering model
+- ✦ Personalised recommendation engine
+- ✦ Interactive Streamlit UI
+
+[![App](https://img.shields.io/badge/Live_App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://huggingface.co/spaces/ajayapradhanconnect/Book-Recommendation-System)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ajaya-kumar-pradhan/Book-Recommendation-System)
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## Projects
-
-### 01 — Loan Approval & Credit Risk Analytics System
-> Full-stack credit risk platform integrating SQL intelligence, Power BI reporting, and Random Forest predictions.
-
-**Stack:** `Power BI` `SQL` `Python` `Scikit-Learn` `Streamlit` `Hugging Face`
-
-| What was built | Detail |
-|---|---|
-| Data Model | Daily-grain Star Schema with 20+ custom DAX measures |
-| SQL Layer | YoY growth, region risk concentration, portfolio segmentation |
-| ML Layer | Random Forest classifier with real-time Streamlit predictor |
-| Deployment | Dual-pane app: ML Predictor + Power BI Hub on Hugging Face |
-
-[![Live App](https://img.shields.io/badge/Live_App-C9A96E?style=flat-square&logo=huggingface&logoColor=0a0a0a)](https://huggingface.co/spaces/ajayapradhanconnect/loan-default-predictor)
-[![Dashboard](https://img.shields.io/badge/Power_BI_Dashboard-C9A96E?style=flat-square&logo=powerbi&logoColor=0a0a0a)](https://app.powerbi.com/view?r=eyJrIjoiNGYzMTM1ZDItODQ3Mi00ZWVhLWE3MjQtOGYxYmZjOGRmZDYyIiwidCI6IjdlMzEwODQ1LTg0ZTEtNGRiOC1hZjk4LTcwNDA0MTkwZDhkZSJ9)
-[![Code](https://img.shields.io/badge/View_Code-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/ajaya-kumar-pradhan/Loan-Approval-Credit-Risk-Analytics-System)
-
----
-
-### 02 — E-Commerce Analytics Intelligence Dashboard
-> Enterprise-grade Power BI solution for global e-commerce performance monitoring.
-
-**Stack:** `Power BI` `DAX` `SQL` `Excel`
-
-- Dynamic KPI tracking — Revenue, Profit, AOV with YTD & YOY growth
-- Customer segmentation and geographic performance analysis
-- Fully interactive Star Schema model with drill-through navigation
-
-[![Dashboard](https://img.shields.io/badge/Power_BI_Dashboard-C9A96E?style=flat-square&logo=powerbi&logoColor=0a0a0a)](https://app.powerbi.com/view?r=eyJrIjoiZDA0M2E1YWUtMGU2NC00NDk2LTg1MjUtOTRhNmM5MDk5OTEzIiwidCI6IjdlMzEwODQ1LTg0ZTEtNGRiOC1hZjk4LTcwNDA0MTkwZDhkZSJ9)
-[![Code](https://img.shields.io/badge/View_Code-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/ajaya-kumar-pradhan/E-Commerce-Analytics-Intelligence-Dashboard)
-
----
-
-### 03 — Banking Analytics Dashboard
-> Financial analytics solution for loan portfolio management and risk monitoring.
-
-**Stack:** `Power BI` `SQL Server` `ETL`
-
-- NPL and Delinquency % tracking across loan portfolio segments
-- Automated ETL pipeline from SQL Server into Power BI Service
-- Customer segmentation with financial performance trend analysis
-
-[![Dashboard](https://img.shields.io/badge/Power_BI_Dashboard-C9A96E?style=flat-square&logo=powerbi&logoColor=0a0a0a)](https://app.powerbi.com/view?r=eyJrIjoiOTQ5Y2UyY2UtNWM2NC00NGYyLTllNWUtYmU1ZDhkM2YwYzg5IiwidCI6IjdlMzEwODQ1LTg0ZTEtNGRiOC1hZjk4LTcwNDA0MTkwZDhkZSJ9)
-[![Code](https://img.shields.io/badge/View_Code-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/ajaya-kumar-pradhan/Banking-Analytics-Dashboard)
-
----
-
-### 04 — Fraud Detection Risk Intelligence System
-> XGBoost-powered real-time fraud detection with model explainability.
-
-**Stack:** `Python` `XGBoost` `SHAP` `Streamlit` `Hugging Face`
-
-- High-recall model (94%+) optimised for imbalanced fraud datasets
-- SHAP values for per-prediction feature attribution and explainability
-- Interactive risk monitoring dashboard with real-time inference
-
-[![Live App](https://img.shields.io/badge/Live_App-C9A96E?style=flat-square&logo=huggingface&logoColor=0a0a0a)](https://huggingface.co/spaces/ajayapradhanconnect/Fraud-Detection-Risk-Intelligence-System)
-[![Code](https://img.shields.io/badge/View_Code-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/ajaya-kumar-pradhan/fraud-detection-risk-intelligence-system)
-
----
-
-### 05 — Airline Passenger Referral Prediction
-> ML classifier predicting customer recommendation likelihood from 10K+ reviews.
-
-**Stack:** `Python` `Scikit-Learn` `Streamlit`
-
-[![Live App](https://img.shields.io/badge/Live_App-C9A96E?style=flat-square&logo=huggingface&logoColor=0a0a0a)](https://huggingface.co/spaces/ajayapradhanconnect/Airline-Passenger-Referral-Prediction)
-[![Code](https://img.shields.io/badge/View_Code-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/ajaya-kumar-pradhan/Airline-Passenger-Referral-Prediction)
-
----
-
-### 06 — Book Recommendation System
-> Collaborative filtering engine using KNN for personalised recommendations.
-
-**Stack:** `Python` `Scikit-Learn` `Flask` `Streamlit`
-
-[![Live App](https://img.shields.io/badge/Live_App-C9A96E?style=flat-square&logo=huggingface&logoColor=0a0a0a)](https://huggingface.co/spaces/ajayapradhanconnect/Book-Recommendation-System)
-[![Code](https://img.shields.io/badge/View_Code-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/ajaya-kumar-pradhan/Book-Recommendation-System)
-
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajaya-kumar-pradhan&show_icons=true&hide_border=true&bg_color=0d0d0f&title_color=C9A96E&icon_color=4FC3A1&text_color=6B7280&ring_color=C9A96E" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaya-kumar-pradhan&layout=compact&hide_border=true&bg_color=0d0d0f&title_color=C9A96E&text_color=6B7280" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ajaya-kumar-pradhan&show_icons=true&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&ring_color=0ea5e9" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaya-kumar-pradhan&layout=compact&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=94a3b8" height="160"/>
+
+<br/><br/>
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
----
+<br/>
 
-<div align="center">
-
-*"In God we trust; all others must bring data." — W. Edwards Deming*
-
-</div>
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=120&section=footer&text=In+God+we+trust%3B+all+others+must+bring+data.&fontSize=13&fontColor=94a3b8&fontAlignY=65" />
+</picture>
