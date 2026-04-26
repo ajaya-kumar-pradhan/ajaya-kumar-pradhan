@@ -1,10 +1,10 @@
 <div align="center">
 
 <picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Ajaya%20Kumar%20Pradhan&fontSize=42&fontColor=f0f9ff&fontAlignY=38&desc=Power%20BI%20Developer%20%C2%B7%20Data%20Analyst%20%C2%B7%20ML%20Engineer&descSize=15&descAlignY=60&descColor=94a3b8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Ajaya%20Kumar%20Pradhan&fontSize=42&fontColor=f0f9ff&fontAlignY=38&desc=Power%20BI%20Developer%20%C2%B7%20Data%20Analyst%20%C2%B7%20ML%20%26%20Gen%20AI%20Engineer&descSize=15&descAlignY=60&descColor=94a3b8" />
 </picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=500&color=0EA5E9&center=true&vCenter=true&width=600&lines=ETL+%E2%86%92+Star+Schema+%E2%86%92+DAX+%E2%86%92+Deployment;FinTech+%C2%B7+Banking+%C2%B7+Retail+%C2%B7+Healthcare+%C2%B7+Logistics;Open+to+Analyst+%26+BI+Developer+Roles)](https://github.com/ajaya-kumar-pradhan)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=500&color=0EA5E9&center=true&vCenter=true&width=650&lines=ETL+%E2%86%92+Star+Schema+%E2%86%92+DAX+%E2%86%92+Deployment;Gen+AI+%C2%B7+LLMs+%C2%B7+NLP+%C2%B7+Hugging+Face+%C2%B7+RAG;FinTech+%C2%B7+Banking+%C2%B7+Retail+%C2%B7+Healthcare+%C2%B7+Logistics;Open+to+Analyst+%2C+BI+%26+AI+Developer+Roles)](https://github.com/ajaya-kumar-pradhan)
 
 <br/>
 
@@ -18,12 +18,12 @@
 
 ```yaml
 Name     : Ajaya Kumar Pradhan
-Role     : Power BI Developer | Data Analyst | ML Engineer
+Role     : Power BI Developer | Data Analyst | ML & Gen AI Engineer
 Location : Bhubaneswar, Odisha, India
 Education: B.A. Economics Honours — Rajdhani College (2017)
            Full Stack Data Science — AlmaBetter Certified (2023–24)
-Focus    : End-to-end BI · ETL Design · Star Schema · DAX · Predictive Analytics
-Status   : Open to Analyst & BI Developer Roles
+Focus    : End-to-end BI · ETL · Star Schema · DAX · ML · Gen AI · LLMs · NLP
+Status   : Open to Analyst, BI & AI Developer Roles
 ```
 
 <br/>
@@ -36,6 +36,12 @@ Status   : Open to Analyst & BI Developer Roles
 |:---:|:---:|:---:|:---:|
 | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black) | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
 | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![ETL](https://img.shields.io/badge/ETL_Pipelines-0EA5E9?style=flat-square) | ![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-8B5CF6?style=flat-square) | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+**Gen AI & NLP**
+
+| LLMs | NLP | Frameworks | Vector & RAG |
+|:---:|:---:|:---:|:---:|
+| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square) | ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square) | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) | ![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-0EA5E9?style=flat-square) |
 
 </div>
 
