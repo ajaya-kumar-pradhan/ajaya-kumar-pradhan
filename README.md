@@ -157,13 +157,13 @@ Collaborative filtering engine using KNN for personalised book recommendations.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajaya-kumar-pradhan&show_icons=true&hide_border=true&theme=transparent&bg_color=0f172a&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&ring_color=0ea5e9&count_private=true&include_all_commits=true&cache_seconds=1800" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajaya-kumar-pradhan&theme=github_dark" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaya-kumar-pradhan&layout=compact&hide_border=true&theme=transparent&bg_color=0f172a&title_color=0ea5e9&text_color=94a3b8&cache_seconds=1800&langs_count=8" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajaya-kumar-pradhan&theme=github_dark" height="160"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ajaya-kumar-pradhan&theme=dark&hide_border=true&background=0f172a&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=94a3b8&sideNums=f0f9ff&currStreakNum=f0f9ff" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajaya-kumar-pradhan&theme=github_dark" width="98%"/>
 
 <br/><br/>
 
