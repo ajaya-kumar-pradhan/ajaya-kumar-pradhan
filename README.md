@@ -163,10 +163,14 @@ Collaborative filtering engine using KNN for personalised book recommendations.
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ajaya-kumar-pradhan&theme=dark&hide_border=true&background=0f172a&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=94a3b8&sideNums=f0f9ff&currStreakNum=f0f9ff" height="160"/>
+<img src="https://streak-stats.demolab.com?user=ajaya-kumar-pradhan&theme=dark&hide_border=true&background=0f172a&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=94a3b8&sideNums=f0f9ff&currStreakNum=f0f9ff" height="160"/>
 
 <br/><br/>
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=120&section=footer&text=In+God+we+trust%3B+all+others+must+bring+data.&fontSize=13&fontColor=94a3b8&fontAlignY=65" width="100%"/>
