@@ -16,7 +16,7 @@
 
 ```yaml
 Name     : Ajaya Kumar Pradhan
-Role     : Power BI Developer | Data Analyst | ML & Gen AI Engineer
+Role     : Power BI Developer | Data Analyst 
 Location : Bhubaneswar, Odisha, India
 Education: B.A. Economics Honours — Rajdhani College (2017)
            Full Stack Data Science — AlmaBetter Certified (2023–24)
